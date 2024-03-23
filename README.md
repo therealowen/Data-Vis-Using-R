@@ -16,4 +16,4 @@ Johns Hopkins U - Data Visualization
   Team Members: Tanush Sharanarthi, Shreyas Iyer, Owen Hu, Steven Lu, Junhua Zhu*
 
 
-  ![image](https://github.com/therealowen/Data-Vis-Using-R/assets/31581639/d9e47159-2d22-403f-802e-43b67ae9c384)
+  <img width="1716" alt="Screenshot 2024-03-23 at 11 37 56 AM" src="https://github.com/therealowen/Data-Visualization-Projects-R-Shiny/assets/31581639/3abe824d-0ab3-4d08-8814-d4ef011913d9">
